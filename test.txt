@@ -1,1 +1,37 @@
-Hello This is kumar
+Main Layout Element
+	DOCTYPE html => Document Type
+	html
+	head
+	body
+	title
+	meta
+
+
+Header Element
+	h1, h2, h3,h4,h5,h6 = >heading
+	div and span
+
+	P => Paragraph
+	b, strong => bold
+	hr => horinzontal Line
+	i => italic
+	center => center
+
+	a => hyperlink 
+		For links 
+			Attribute =  href=""
+				target
+
+		Google
+		Facebook
+		Twitter
+		Yahoo
+		Google
+
+Two types of element
+1. Block Level Element
+	=> Screen size 100% Cover
+	h, p , div
+2. Inline Element
+	=> As per Req
+		a, span
