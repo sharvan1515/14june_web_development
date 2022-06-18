@@ -45,3 +45,12 @@ Two types of element
 	Types of List (4)
 
 	1. Order List
+	2. Unorder List
+	3. Nested List 
+	4. Description List
+
+	Types Of css
+
+	1. Internal
+	2. Inline
+	3. External
