@@ -35,3 +35,13 @@ Two types of element
 2. Inline Element
 	=> As per Req
 		a, span
+
+		/// 
+
+
+2. List	
+	List - > HTML Lists are used to specify lists of information. All lists may contain one or more list elements.
+
+	Types of List (4)
+
+	1. Order List
